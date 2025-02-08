@@ -29,7 +29,7 @@ by [srihash.org](https://www.srihash.org/)):
 <html>
   <head>
     <link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/tacit-css@1.8.1/dist/tacit-css.min.css"/>
+      href="https://cdn.jsdelivr.net/npm/tacit-css@1.5.5/dist/tacit-css.min.css"/>
   </head>
 </html>
 ```
